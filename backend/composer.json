@@ -1,0 +1,12 @@
+{
+    "name": "ubuntudev/backend",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^5.5",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

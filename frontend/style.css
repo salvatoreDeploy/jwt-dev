@@ -1,0 +1,20 @@
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+
+.btn-login {
+  background-color: aqua;
+}
+
+.btn-auth {
+  background-color: tomato;
+  color: white;
+}
